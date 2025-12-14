@@ -1,0 +1,15 @@
+# cartelle generate
+bin/
+out/
+build/
+
+# JDK / SDK
+oracleJdk-*
+*.jdk
+*.jre
+
+# file pesanti o inutili
+*.exe
+*.zip
+*.tar
+*.log
